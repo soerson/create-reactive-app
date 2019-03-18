@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "An `npm init` template for reactive app",
   "main": ".bin/create-reactive-app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": { 
+    "start": "webpack-dev-server",
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,16 @@
   "bugs": {
     "url": "https://github.com/soerson/create-reactive-app/issues"
   },
-  "homepage": "https://github.com/soerson/create-reactive-app#readme"
+  "homepage": "https://github.com/soerson/create-reactive-app#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  }
 }
