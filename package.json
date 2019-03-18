@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "An `npm init` template for reactive app",
   "main": ".bin/create-reactive-app.js",
+  "bin": {
+    "create-reactive-app": ".bin/create-reactive-app.js"
+  },
   "scripts": { 
     "start": "webpack-dev-server",
     "build": "webpack --config webpack.config.js"
