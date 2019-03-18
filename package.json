@@ -1,6 +1,6 @@
 {
   "name": "create-reactive-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An `npm init` template for reactive app",
   "main": ".bin/create-reactive-app.js",
   "bin": {
