@@ -1,0 +1,28 @@
+{
+  "name": "create-reactive-app",
+  "version": "1.0.0",
+  "description": "An `npm init` template for reactive app",
+  "main": ".bin/create-reactive-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soerson/create-reactive-app.git"
+  },
+  "keywords": [
+    "npm",
+    "init",
+    "rxjs",
+    "reactive",
+    "template",
+    "webpack",
+    "typescript"
+  ],
+  "author": "soerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soerson/create-reactive-app/issues"
+  },
+  "homepage": "https://github.com/soerson/create-reactive-app#readme"
+}
