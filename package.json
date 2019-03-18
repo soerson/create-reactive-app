@@ -20,7 +20,7 @@
     "webpack",
     "typescript"
   ],
-  "author": "soerson",
+  "author": "soerson <soerson@pm.me>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/soerson/create-reactive-app/issues"
