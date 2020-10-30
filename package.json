@@ -30,14 +30,14 @@
   },
   "homepage": "https://github.com/soerson/create-reactive-app#readme",
   "devDependencies": {
-    "copy-webpack-plugin": "^5.0.1",
-    "ts-loader": "^5.3.3",
-    "typescript": "^3.3.3333",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0",
-    "webpack-dev-server": "^3.2.1"
+    "copy-webpack-plugin": "^5.1.2",
+    "ts-loader": "^5.4.5",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "rxjs": "^6.4.0"
+    "rxjs": "^6.6.3"
   }
 }
