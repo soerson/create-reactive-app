@@ -31,7 +31,7 @@
   "homepage": "https://github.com/soerson/create-reactive-app#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^5.1.2",
-    "ts-loader": "^5.4.5",
+    "ts-loader": "^8.0.7",
     "typescript": "^3.9.7",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
